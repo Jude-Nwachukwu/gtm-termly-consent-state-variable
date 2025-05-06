@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-termly-consent-state-variable
 versions:
-  - sha: XXX
+  - sha: 3f51faedacf09be3d37fbaff04ebd03c007aa7c4
     changeNotes: Initial release.
