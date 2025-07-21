@@ -3,9 +3,11 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-termly-consent-state-variable
 versions:
 # LATEST VERSION
+  - sha: 77ea27037d47562664857156bce2160e3a7d444d
+    changeNotes: Included category specification.
+
+#OLDER VERSION
   - sha: 6f9fd8a257841fc8126c1e898d18ccfea7b369ea
     changeNotes: Updated the variable custom template name.
-
-#INITIAL VERSION
   - sha: 3f51faedacf09be3d37fbaff04ebd03c007aa7c4
     changeNotes: Initial release.
